@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Popa Sebastian</h1>
-<h3 align="center">I'm a student in 3rd year of Computer Science</h3>
+<h3 align="center">I'm a graduate in Computer Science and currently pursuing a Master's Degree in Internet Technologies</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=popasebastian1&label=Profile%20views&color=0e75b6&style=flat" alt="popasebastian1" /> </p>
 
